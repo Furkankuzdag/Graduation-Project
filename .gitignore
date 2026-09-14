@@ -1,0 +1,5 @@
+.idea/
+fasttext_enwiki_20260401_cbow_epoch1-001.bin
+glove.2024.dolma.300d.zip
+wiki_word2vec.model.syn1neg.npy
+wiki_word2vec.model.wv.vectors.npy
